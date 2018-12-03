@@ -1,5 +1,5 @@
 # Seq2seq
-This code is for the [competition](https://biendata.com/competition/bytecup2018/),Bytecup2018 for text Neural Headline Generation (NHG).</br>
+This code is for the [competition](https://biendata.com/competition/bytecup2018/), for text Neural Headline Generation (NHG).</br>
 
 ## elmo 
 
