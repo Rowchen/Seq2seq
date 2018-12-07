@@ -1,5 +1,5 @@
 # Seq2seq
-This code is for the [competition](https://biendata.com/competition/bytecup2018/), for text Neural Headline Generation (NHG).The rank in the Leadboard is 4/1066 </br>
+This code is for the [competition](https://biendata.com/competition/bytecup2018/), for text Neural Headline Generation (NHG).The rank in the final Leaderboard is 4/1066 </br>
 
 ## elmo 
 仿照elmo的嵌入方式和bert的mask方式，用双向LSTM预训练了decoder和encoder的elmo语言模型，作为词向量。
